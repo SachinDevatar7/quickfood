@@ -5,9 +5,8 @@
 
 ## Requirements
  - React >= 16.10
- - See [requirements.txt](requirements.txt) for python package requirements.
-
-
+ - Node.js >= 8
+ - Express.js = 4.17.1 
 
 
 ## `npm start`
