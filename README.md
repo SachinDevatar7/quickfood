@@ -25,8 +25,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
  http://ec2-54-193-203-76.us-west-1.compute.amazonaws.com:3000/
 
 
-
-
+## Screeshots
 
 <img width="1680" alt="1" src="https://user-images.githubusercontent.com/55271757/77256091-04a44980-6c3a-11ea-8dbc-01b3cbad30dd.png">
 
